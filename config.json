@@ -1,1 +1,16 @@
+{
+  "apiId": 123456,
+  "apiHash": "API_HASH_KAMU",
 
+  "groupLink": "https://t.me/namagrup",
+  "channelLink": "https://t.me/namachannel",
+
+  "delayMin": 25000,
+  "delayMax": 60000,
+
+  "maxAddPerDay": 15,
+  "maxDMPerDay": 10,
+
+  "useInvite": true,
+  "useDM": true
+}
